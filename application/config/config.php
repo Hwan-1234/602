@@ -35,7 +35,7 @@ $config['base_url'] = 'https://hwan-1234.github.io/602/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = 'Main.php';
 
 /*
 |--------------------------------------------------------------------------
