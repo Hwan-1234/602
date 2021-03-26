@@ -16,8 +16,10 @@ class Main extends CI_Controller {
 	   $data['css_load'][] = '';
 	   $this->remap_init($method,$data);
 	}
-    public function index()
+    public function main()
 	{
-		$this->load->view('welcome_message');
+		$data = array();
+		$views = array('welcome_message');
+		$this->remap($views, $data);
 	}
 }
