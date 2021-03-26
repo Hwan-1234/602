@@ -7,9 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "https://hwan-1234.github.io/602/",
-            "webRoot": "${workspaceFolder}"
+            "name": "Open index.html",
+            "url": "https://hwan-1234.github.io/602/index.html"
         }
     ]
 }
