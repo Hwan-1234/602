@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://hwan-1234.github.io/602/application/views/index.html';
+$config['base_url'] = 'https://hwan-1234.github.io/602/';
 
 /*
 |--------------------------------------------------------------------------
