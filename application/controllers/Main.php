@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+require_once 'ci3.php';
 
 class Main extends My_Controller {
 	function __construct()
