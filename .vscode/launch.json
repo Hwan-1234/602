@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://Hwan-1234.github.io/602/application/controllers/",
+            "url": "https://Hwan-1234.github.io/602/",
             "webRoot": "${workspaceFolder}"
         }
     ]
